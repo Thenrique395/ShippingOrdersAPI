@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingOrders.API", "ShippingOrders.API\ShippingOrders.API.csproj", "{906C87B6-C1F7-4A47-82EF-021B66B4C9CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShippingOrders.API", "ShippingOrders.API\ShippingOrders.API.csproj", "{906C87B6-C1F7-4A47-82EF-021B66B4C9CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingOrders.Core", "ShippingOrders.Core\ShippingOrders.Core.csproj", "{B992E751-9BBD-4823-A9BD-5F6231F3C92C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShippingOrders.Core", "ShippingOrders.Core\ShippingOrders.Core.csproj", "{B992E751-9BBD-4823-A9BD-5F6231F3C92C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingOrders.Application", "ShippingOrders.Application\ShippingOrders.Application.csproj", "{27B31F17-7263-4C36-AFF6-F7AC9811F46B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShippingOrders.Application", "ShippingOrders.Application\ShippingOrders.Application.csproj", "{27B31F17-7263-4C36-AFF6-F7AC9811F46B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingOrders.Infrastructure", "ShippingOrders.Infrastructure\ShippingOrders.Infrastructure.csproj", "{A3B4CD27-189C-4CB7-B84E-7478EC47642A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingOrders.Infrastructure", "ShippingOrders.Infrastructure\ShippingOrders.Infrastructure.csproj", "{E048A820-6893-42B6-A7EF-F7D6753CB29C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{27B31F17-7263-4C36-AFF6-F7AC9811F46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27B31F17-7263-4C36-AFF6-F7AC9811F46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27B31F17-7263-4C36-AFF6-F7AC9811F46B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A3B4CD27-189C-4CB7-B84E-7478EC47642A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3B4CD27-189C-4CB7-B84E-7478EC47642A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3B4CD27-189C-4CB7-B84E-7478EC47642A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3B4CD27-189C-4CB7-B84E-7478EC47642A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E048A820-6893-42B6-A7EF-F7D6753CB29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E048A820-6893-42B6-A7EF-F7D6753CB29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E048A820-6893-42B6-A7EF-F7D6753CB29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E048A820-6893-42B6-A7EF-F7D6753CB29C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
